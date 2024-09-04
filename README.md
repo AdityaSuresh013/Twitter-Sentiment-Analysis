@@ -17,6 +17,7 @@ This project is a sentiment analysis application for Twitter data, leveraging a 
 - [Usage](#usage)
 - [Data](#data)
 - [Model Training](#model-training)
+- [References](#references)
 - [License](#license)
 - [Author](#author)
 
@@ -106,6 +107,10 @@ The machine learning model is trained using the dataset. Key steps involved:
 3. **Data Visualization**: Visualizing the cleaned dataset using Matplotlib
 4. **Model Selection**: Implementing various regression models (Linear Regression, Lasso, Decision Trees) to find the best performing model.
 5. **Evaluation**: Evaluating the model's performance using metrics like K Fold Cross, etc.
+
+##  References
+
+- [Sentiment Analysis on tweets with LSTM](https://www.analyticsvidhya.com/blog/2021/12/sentiment-analysis-on-tweets-with-lstm-for-beginners/) - A guide on implementing LSTM for sentiment analysis on tweet data.
 
 ##  License
 
